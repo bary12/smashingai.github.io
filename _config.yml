@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Smashing AI
+title: Smashing AI For Fun and Profit
 email: barylevi@gmail.com
 domain: smashingai.github.io
 url: https://smashingai.github.io
@@ -29,9 +29,20 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-jupyter-notebook
+
+callouts:
+  key-concepts:
+    color: blue
+
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
