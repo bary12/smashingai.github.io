@@ -7,7 +7,9 @@ title: Home
 nav_order: 1
 ---
 
-This is the course website for "Smashing AI For Fun and Profit"
+This is the course website for "Smashing AI For Fun and Profit".
+
+Please do not share with others yet without permission.
 
 
 
