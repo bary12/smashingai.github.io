@@ -7,7 +7,7 @@ parent: 0. Foundations
 # Linear Algebra
 
 {: .key-concepts }
-> Vectors, Matrices, Matrix Multiplication, Dot Product
+> Vectors, Matrices, Matrix Multiplication, Dot Product, Matrix Transpose, Matrix Inverse.
 
 This is a refresher module on Linear Algebra.
 

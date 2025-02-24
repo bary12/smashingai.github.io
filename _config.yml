@@ -36,7 +36,11 @@ plugins:
 
 callouts:
   key-concepts:
+    title: Key Concepts
     color: blue
+  prerequisite-concepts:
+    title: Prerequisite Concepts
+    color: yellow
 
 
 kramdown:
