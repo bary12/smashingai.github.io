@@ -5,5 +5,4 @@ parent: 3. Performance and Infrastructure
 ---
 
 # Mixture of Experts
-
 > MoE, Sparse MoE, Expert Routing.
