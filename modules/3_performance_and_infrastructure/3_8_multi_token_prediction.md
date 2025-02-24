@@ -1,6 +1,6 @@
 ---
-title: 3.7 Multi-Token Prediction
-nav_order: 7
+title: 3.8 Multi-Token Prediction
+nav_order: 8
 parent: 3. Performance and Infrastructure
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: 3.6 Speculative Decoding
-nav_order: 6
+title: 3.7 Speculative Decoding
+nav_order: 7
 parent: 3. Performance and Infrastructure
 ---
 
